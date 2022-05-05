@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace program
+namespace Retangulo
 {
     class Program
     {
